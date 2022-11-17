@@ -1,4 +1,5 @@
 # 1. Introduction & Abstraction
+2021년 데이터베이스 과목 팀프로젝트  
 FIFA21 게임 이용자 성향을 반영한 선수 추천시스템
 
 
